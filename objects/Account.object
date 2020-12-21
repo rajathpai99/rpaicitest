@@ -496,7 +496,7 @@
     </fields>
     <fields>
         <fullName>YearStarted</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
+        <trackFeedHistory>true</trackFeedHistory>
     </fields>
     <fields>
         <fullName>test_1__c</fullName>
