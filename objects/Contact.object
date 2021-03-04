@@ -399,10 +399,10 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Languages_upd__c</fullName>
+        <fullName>Languages_upd1__c</fullName>
         <externalId>false</externalId>
-        <label>Languages_upd</label>
-        <length>100</length>
+        <label>Languages_upd1</label>
+        <length>80</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
