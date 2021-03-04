@@ -399,6 +399,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Languages_upd__c</fullName>
+        <externalId>false</externalId>
+        <label>Languages_upd</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>LastCURequestDate</fullName>
     </fields>
     <fields>
